@@ -1,0 +1,208 @@
+{
+  "Orçamento econômico (3.000 - 5.000)": [
+    {
+      "Local": "Brasil",
+      "Cidade": "Aracaju",
+      "Clima": "Quente",
+      "Atividade": "Aventura (caiaque, trilhas), Museus, Praias (R$ 305)",
+      "Acomodacao": "Hotéis de baixo custo (Araras Praia Hotel - R$ 1.330)",
+      "Alimentacao": "R$ 56 - R$ 90",
+      "Valor total": "R$ 3.000",
+      "Integrantes": "1 pessoa",
+      "Descrição": "Capital sergipana com orla extensa e clima quente o ano todo. Boa para passeios de caiaque, trilhas leves, praias tranquilas e visitas a museus locais. Ideal para quem busca custo baixo e ritmo sossegado."
+    },
+    {
+      "Local": "Chile",
+      "Cidade": "Santiago",
+      "Clima": "Quente e Frio",
+      "Atividade": "Aventura (Neve), Museus e Zoológicos (R$ 837,23)",
+      "Acomodacao": "Hotel de baixo custo (Tremo Bellavista - R$ 1.386,70)",
+      "Alimentacao": "R$ 82,01 - R$ 134,80",
+      "Valor total": "R$ 4.600",
+      "Integrantes": "1 pessoa",
+      "Descrição": "Cidade aos pés da Cordilheira, combinando vida urbana, museus e fácil acesso a atividades na neve durante o inverno. Opção versátil para quem quer cultura e aventura em um mesmo roteiro."
+    },
+    {
+      "Local": "Brasil",
+      "Cidade": "Porto Seguro",
+      "Clima": "Tropical",
+      "Atividade": "Aventura (Mergulho), Passeios Naturais (R$ 910)",
+      "Acomodacao": "Hotel de baixo custo (Costa Verde - R$ 1.143,80)",
+      "Alimentacao": "R$ 104,16 - R$ 252,96",
+      "Valor total": "R$ 5.000",
+      "Integrantes": "2 adultos",
+      "Descrição": "Destino de praias tropicais com águas claras, bom para mergulho e passeios em áreas naturais. Combina ambiente histórico e vida noturna descontraída, com boa estrutura turística."
+    },
+    {
+      "Local": "Brasil",
+      "Cidade": "Salvador",
+      "Clima": "Quente e Sol",
+      "Atividade": "Locais Históricos e Culturais (R$ 440)",
+      "Acomodacao": "Hotel de baixo custo (B Hotel Salvador - R$ 1.501,36)",
+      "Alimentacao": "R$ 151,60 - R$ 313,20",
+      "Valor total": "R$ 5.000",
+      "Integrantes": "2 adultos",
+      "Descrição": "Rica em história, música e gastronomia, com centro histórico, igrejas e forte cena cultural. Ótima para quem quer sol e cultura em um mesmo roteiro."
+    },
+    {
+      "Local": "Brasil",
+      "Cidade": "Florianópolis",
+      "Clima": "Subtropical úmido",
+      "Atividade": "Locais Históricos e Praias (R$ 229)",
+      "Acomodacao": "Hotel de baixo custo (Hotel Dom Fish - R$ 1.229,27)",
+      "Alimentacao": "R$ 142,20 - R$ 365,04",
+      "Valor total": "R$ 5.000",
+      "Integrantes": "2 adultos e 1 criança",
+      "Descrição": "Ilha com diversas praias, trilhas leves e fortalezas históricas. Boa infraestrutura para famílias e opções de passeios ao ar livre durante todo o ano."
+    },
+    {
+      "Local": "Brasil",
+      "Cidade": "Aracaju",
+      "Clima": "Quente",
+      "Atividade": "Aventura (trilhas), Museus, Praias (R$ 114)",
+      "Acomodacao": "Hotéis de baixo custo (Araras Praia Hotel - R$ 1.580)",
+      "Alimentacao": "R$ 165,90 - R$ 269,10",
+      "Valor total": "R$ 5.000",
+      "Integrantes": "2 adultos e 2 crianças",
+      "Descrição": "Destino familiar com orla organizada, ciclovias e praias calmas. Trilhas curtas, museus regionais e custo acessível para quem viaja com crianças."
+    }
+  ],
+
+  "Orçamento médio (5.500 - 10.000)": [
+    {
+      "Local": "Peru",
+      "Cidade": "Cusco",
+      "Clima": "Temperado",
+      "Atividade": "Aventura (Machu Picchu), Museus (R$ 950,42)",
+      "Acomodacao": "Hotel (Hidden Garden - R$ 693,35)",
+      "Alimentacao": "R$ 119,96 - R$ 191,08",
+      "Valor total": "R$ 6.200",
+      "Integrantes": "1 pessoa",
+      "Descrição": "Antiga capital inca, ponto de partida para o Vale Sagrado e Machu Picchu. Combina história, museus e passeios em altitude, ideal para viajantes solo que buscam cultura e aventura."
+    },
+    {
+      "Local": "Brasil",
+      "Cidade": "Santos",
+      "Clima": "Tropical",
+      "Atividade": "Passeios culturais (R$ 51)",
+      "Acomodacao": "Hotel (Ibis Santos Valongo - R$ 2.065)",
+      "Alimentacao": "R$ 58,80 - R$ 144,00",
+      "Valor total": "R$ 6.000",
+      "Integrantes": "1 pessoa",
+      "Descrição": "Cidade litorânea com jardins na orla, centro histórico e museus. Ótima para caminhadas, bicicleta e passeios culturais de curta duração."
+    },
+    {
+      "Local": "Brasil",
+      "Cidade": "Recife",
+      "Clima": "Tropical",
+      "Atividade": "Passeios culturais, excursões, praias (R$ 2.250)",
+      "Acomodacao": "Hotel (Flat Beira Mar Piedade - R$ 1.666)",
+      "Alimentacao": "R$ 186 - R$ 332",
+      "Valor total": "R$ 8.000",
+      "Integrantes": "2 adultos",
+      "Descrição": "Destino urbano-praia com centro histórico e opções de excursões. Combina cultura, gastronomia e banhos de mar em praias próximas."
+    },
+    {
+      "Local": "Peru",
+      "Cidade": "Lima",
+      "Clima": "Deserto Árido",
+      "Atividade": "Museus, parques e excursões (R$ 1.461)",
+      "Acomodacao": "Hotel (Hotel Milan - R$ 962,99)",
+      "Alimentacao": "R$ 177,78 - R$ 244,57",
+      "Valor total": "R$ 8.300",
+      "Integrantes": "2 adultos",
+      "Descrição": "Capital costeira com falésias, parques e forte cena gastronômica. Bairros com vida cultural e museus que contam a história pré-colombiana."
+    },
+    {
+      "Local": "Brasil / Argentina",
+      "Cidade": "Foz do Iguaçu",
+      "Clima": "Subtropical úmido",
+      "Atividade": "Cataratas, Itaipu, Parques, Museus (R$ 1.164)",
+      "Acomodacao": "Pousada (Pousada Express JK - R$ 910)",
+      "Alimentacao": "R$ 300 - R$ 516",
+      "Valor total": "R$ 10.000",
+      "Integrantes": "2 adultos e 1 criança",
+      "Descrição": "Parque Nacional com cataratas monumentais, passeios no lado brasileiro e argentino, além de visita à usina de Itaipu. Roteiro natural com estrutura para famílias."
+    },
+    {
+      "Local": "Brasil",
+      "Cidade": "Curitiba",
+      "Clima": "Subtropical úmido",
+      "Atividade": "Jardim Botânico, Museus, Parques, Locais Históricos (R$ 104)",
+      "Acomodacao": "Hotel (Granville Hotel - R$ 904)",
+      "Alimentacao": "R$ 360 - R$ 732",
+      "Valor total": "R$ 10.000",
+      "Integrantes": "2 adultos e 2 crianças",
+      "Descrição": "Cidade organizada, com muitos parques, museus e atrações fáceis de percorrer. Boa para famílias que curtem natureza urbana e roteiros culturais."
+    }
+  ],
+
+  "Orçamento médio (10.000+)": [
+    {
+      "Local": "China",
+      "Cidade": "Pequim",
+      "Clima": "Temperado",
+      "Atividade": "Templos, Palácios, Muralha da China e excursões (R$ 9.500)",
+      "Acomodacao": "Hotel (Happy Dragon Universal - R$ 1.479)",
+      "Alimentacao": "R$ 20,11 - R$ 47,27",
+      "Valor total": "R$ 19.500",
+      "Integrantes": "1 pessoa",
+      "Descrição": "Centro histórico e cultural com palácios, templos e mercados tradicionais. Excursões até trechos da Muralha complementam um roteiro repleto de patrimônio."
+    },
+    {
+      "Local": "Tailândia",
+      "Cidade": "Bangkok",
+      "Clima": "Tropical quente",
+      "Atividade": "Palácios, passeios de barco, locais históricos e excursões (R$ 4.000)",
+      "Acomodacao": "Hotel (DB Plus - R$ 760,97)",
+      "Alimentacao": "R$ 50,15 - R$ 99,97",
+      "Valor total": "R$ 14.000",
+      "Integrantes": "1 pessoa",
+      "Descrição": "Metrópole vibrante com palácios, templos e canais. Vida urbana intensa, feiras e passeios de barco por bairros tradicionais."
+    },
+    {
+      "Local": "EUA",
+      "Cidade": "Orlando",
+      "Clima": "Subtropical úmido",
+      "Atividade": "Disney, SeaWorld, LegoLand e outros parques (R$ 4.966)",
+      "Acomodacao": "Hotel (SonoHotel - R$ 2.619)",
+      "Alimentacao": "R$ 445,84 - R$ 813,93",
+      "Valor total": "R$ 20.000",
+      "Integrantes": "2 adultos",
+      "Descrição": "Destino focado em parques temáticos e entretenimento, com excelente estrutura para compras e alimentação. Ideal para roteiros de lazer intensivo."
+    },
+    {
+      "Local": "Itália",
+      "Cidade": "Roma",
+      "Clima": "Mediterrâneo",
+      "Atividade": "Coliseu, Museus, locais históricos e culturais (R$ 3.200)",
+      "Acomodacao": "Hotel (MF Hotel - R$ 2.510)",
+      "Alimentacao": "R$ 389,27 - R$ 834,15",
+      "Valor total": "R$ 20.000",
+      "Integrantes": "2 adultos",
+      "Descrição": "Museu a céu aberto com ruínas, praças e igrejas emblemáticas. Boa para caminhar, visitar museus e apreciar a gastronomia local."
+    },
+    {
+      "Local": "Brasil",
+      "Cidade": "Ilha Grande",
+      "Clima": "Tropical úmido",
+      "Atividade": "Praias e passeios (Grátis e Pagos)",
+      "Acomodacao": "Hotel (Bonito Paraíso - R$ 3.850)",
+      "Alimentacao": "R$ 159 - R$ 375",
+      "Valor total": "R$ 18.500",
+      "Integrantes": "2 adultos e 1 criança",
+      "Descrição": "Ilha de natureza preservada, trilhas e enseadas de água clara. Passeios de barco e praias variadas, ambiente sem carros e clima de refúgio."
+    },
+    {
+      "Local": "Colômbia",
+      "Cidade": "San Andrés",
+      "Clima": "Tropical quente",
+      "Atividade": "Paraquedismo, trilhas, praias (R$ 1.377)",
+      "Acomodacao": "Hotel (Hotel Isla Bonita - R$ 2.358)",
+      "Alimentacao": "R$ 379 - R$ 619",
+      "Valor total": "R$ 20.000",
+      "Integrantes": "2 adultos e 2 crianças",
+      "Descrição": "Ilha caribenha conhecida pelo mar colorido e águas claras. Boa para snorkel, mergulho e circuitos pela ilha, com clima quente o ano inteiro."
+    }
+  ]
+}

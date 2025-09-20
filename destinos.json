@@ -3,8 +3,8 @@
     {
       "Local": "Brasil",
       "Cidade": "Aracaju",
-      "Clima": "Quente",
-      "Atividade": "Aventura (caiaque, trilhas), Museus, Praias (R$ 305)",
+      "Clima": "Quente/Seco",
+      "Atividade": "Aventura, Museus, Natureza (R$ 305)",
       "Acomodacao": "Hotéis de baixo custo (Araras Praia Hotel - R$ 1.330)",
       "Alimentacao": "R$ 56 - R$ 90",
       "Valor total": "R$ 3.000",
@@ -14,8 +14,8 @@
     {
       "Local": "Chile",
       "Cidade": "Santiago",
-      "Clima": "Quente e Frio",
-      "Atividade": "Aventura (Neve), Museus e Zoológicos (R$ 837,23)",
+      "Clima": "Quente/Seco",
+      "Atividade": "Aventura, Museus, Natureza (R$ 837,23)",
       "Acomodacao": "Hotel de baixo custo (Tremo Bellavista - R$ 1.386,70)",
       "Alimentacao": "R$ 82,01 - R$ 134,80",
       "Valor total": "R$ 4.600",
@@ -26,7 +26,7 @@
       "Local": "Brasil",
       "Cidade": "Porto Seguro",
       "Clima": "Tropical",
-      "Atividade": "Aventura (Mergulho), Passeios Naturais (R$ 910)",
+      "Atividade": "Aventura, Passeios, Natureza (R$ 910)",
       "Acomodacao": "Hotel de baixo custo (Costa Verde - R$ 1.143,80)",
       "Alimentacao": "R$ 104,16 - R$ 252,96",
       "Valor total": "R$ 5.000",
@@ -36,8 +36,8 @@
     {
       "Local": "Brasil",
       "Cidade": "Salvador",
-      "Clima": "Quente e Sol",
-      "Atividade": "Locais Históricos e Culturais (R$ 440)",
+      "Clima": "Quente/Seco",
+      "Atividade": "Museus, Passeios (R$ 440)",
       "Acomodacao": "Hotel de baixo custo (B Hotel Salvador - R$ 1.501,36)",
       "Alimentacao": "R$ 151,60 - R$ 313,20",
       "Valor total": "R$ 5.000",
@@ -47,8 +47,8 @@
     {
       "Local": "Brasil",
       "Cidade": "Florianópolis",
-      "Clima": "Subtropical úmido",
-      "Atividade": "Locais Históricos e Praias (R$ 229)",
+      "Clima": "Subtropical",
+      "Atividade": "Museus, Natureza (R$ 229)",
       "Acomodacao": "Hotel de baixo custo (Hotel Dom Fish - R$ 1.229,27)",
       "Alimentacao": "R$ 142,20 - R$ 365,04",
       "Valor total": "R$ 5.000",
@@ -57,14 +57,36 @@
     },
     {
       "Local": "Brasil",
+      "Cidade": "Natal",
+      "Clima": "Tropical",
+      "Atividade": "Praias, Passeios de buggy, Museus (R$ 560)",
+      "Acomodacao": "Hotel de baixo custo (Hotel Italia Beach - R$ 1.480)",
+      "Alimentacao": "R$ 95 - R$ 210",
+      "Valor total": "R$ 4.800",
+      "Integrantes": "2 adultos e 1 criança",
+      "Descrição": "Cidade litorânea conhecida como 'Cidade do Sol', com dunas, passeios de buggy e praias de águas mornas. Boa para famílias que buscam lazer e tranquilidade."
+    },
+    {
+      "Local": "Brasil",
       "Cidade": "Aracaju",
-      "Clima": "Quente",
-      "Atividade": "Aventura (trilhas), Museus, Praias (R$ 114)",
+      "Clima": "Quente/Seco",
+      "Atividade": "Aventura, Museus, Natureza (R$ 114)",
       "Acomodacao": "Hotéis de baixo custo (Araras Praia Hotel - R$ 1.580)",
       "Alimentacao": "R$ 165,90 - R$ 269,10",
       "Valor total": "R$ 5.000",
       "Integrantes": "2 adultos e 2 crianças",
       "Descrição": "Destino familiar com orla organizada, ciclovias e praias calmas. Trilhas curtas, museus regionais e custo acessível para quem viaja com crianças."
+    },
+    {
+      "Local": "Brasil",
+      "Cidade": "Fortaleza",
+      "Clima": "Tropical",
+      "Atividade": "Praias, Passeios, Cultura (R$ 710)",
+      "Acomodacao": "Hotel de baixo custo (Hotel Casa Blanca - R$ 1.620)",
+      "Alimentacao": "R$ 180 - R$ 300",
+      "Valor total": "R$ 5.000",
+      "Integrantes": "2 adultos e 2 crianças",
+      "Descrição": "Destino com orla extensa, praia do Futuro e passeios para Canoa Quebrada e Beach Park. Combina diversão infantil e vida cultural cearense."
     }
   ],
 
@@ -73,7 +95,7 @@
       "Local": "Peru",
       "Cidade": "Cusco",
       "Clima": "Temperado",
-      "Atividade": "Aventura (Machu Picchu), Museus (R$ 950,42)",
+      "Atividade": "Aventura, Museus (R$ 950,42)",
       "Acomodacao": "Hotel (Hidden Garden - R$ 693,35)",
       "Alimentacao": "R$ 119,96 - R$ 191,08",
       "Valor total": "R$ 6.200",
@@ -84,7 +106,7 @@
       "Local": "Brasil",
       "Cidade": "Santos",
       "Clima": "Tropical",
-      "Atividade": "Passeios culturais (R$ 51)",
+      "Atividade": "Passeios (R$ 51)",
       "Acomodacao": "Hotel (Ibis Santos Valongo - R$ 2.065)",
       "Alimentacao": "R$ 58,80 - R$ 144,00",
       "Valor total": "R$ 6.000",
@@ -95,7 +117,7 @@
       "Local": "Brasil",
       "Cidade": "Recife",
       "Clima": "Tropical",
-      "Atividade": "Passeios culturais, excursões, praias (R$ 2.250)",
+      "Atividade": "Passeios, Praias (R$ 2.250)",
       "Acomodacao": "Hotel (Flat Beira Mar Piedade - R$ 1.666)",
       "Alimentacao": "R$ 186 - R$ 332",
       "Valor total": "R$ 8.000",
@@ -105,8 +127,8 @@
     {
       "Local": "Peru",
       "Cidade": "Lima",
-      "Clima": "Deserto Árido",
-      "Atividade": "Museus, parques e excursões (R$ 1.461)",
+      "Clima": "Árido/Desertico",
+      "Atividade": "Museus, Parques, Passeios (R$ 1.461)",
       "Acomodacao": "Hotel (Hotel Milan - R$ 962,99)",
       "Alimentacao": "R$ 177,78 - R$ 244,57",
       "Valor total": "R$ 8.300",
@@ -116,8 +138,8 @@
     {
       "Local": "Brasil / Argentina",
       "Cidade": "Foz do Iguaçu",
-      "Clima": "Subtropical úmido",
-      "Atividade": "Cataratas, Itaipu, Parques, Museus (R$ 1.164)",
+      "Clima": "Subtropical",
+      "Atividade": "Natureza, Parques, Museus (R$ 1.164)",
       "Acomodacao": "Pousada (Pousada Express JK - R$ 910)",
       "Alimentacao": "R$ 300 - R$ 516",
       "Valor total": "R$ 10.000",
@@ -125,24 +147,46 @@
       "Descrição": "Parque Nacional com cataratas monumentais, passeios no lado brasileiro e argentino, além de visita à usina de Itaipu. Roteiro natural com estrutura para famílias."
     },
     {
+      "Local": "México",
+      "Cidade": "Cancún",
+      "Clima": "Tropical",
+      "Atividade": "Praias, Passeios de barco, Cultura Maia (R$ 2.050)",
+      "Acomodacao": "Hotel (Suites Malecon - R$ 1.840)",
+      "Alimentacao": "R$ 290 - R$ 480",
+      "Valor total": "R$ 9.500",
+      "Integrantes": "2 adultos e 1 criança",
+      "Descrição": "Famoso destino de praia com mar turquesa e boa estrutura turística. Oferece excursões a sítios arqueológicos e passeios de barco, bom para famílias."
+    },
+    {
       "Local": "Brasil",
       "Cidade": "Curitiba",
-      "Clima": "Subtropical úmido",
-      "Atividade": "Jardim Botânico, Museus, Parques, Locais Históricos (R$ 104)",
+      "Clima": "Subtropical",
+      "Atividade": "Natureza, Parques, Museus, Passeios (R$ 104)",
       "Acomodacao": "Hotel (Granville Hotel - R$ 904)",
       "Alimentacao": "R$ 360 - R$ 732",
       "Valor total": "R$ 10.000",
       "Integrantes": "2 adultos e 2 crianças",
       "Descrição": "Cidade organizada, com muitos parques, museus e atrações fáceis de percorrer. Boa para famílias que curtem natureza urbana e roteiros culturais."
+    },
+    {
+      "Local": "Argentina",
+      "Cidade": "Buenos Aires",
+      "Clima": "Temperado",
+      "Atividade": "Museus, Passeios, Cultura (R$ 1.200)",
+      "Acomodacao": "Hotel (Hotel Mundial - R$ 1.450)",
+      "Alimentacao": "R$ 280 - R$ 500",
+      "Valor total": "R$ 9.800",
+      "Integrantes": "2 adultos e 2 crianças",
+      "Descrição": "Capital argentina com arquitetura histórica, museus e gastronomia marcante. Passeios pelo Caminito, San Telmo e zoológico ecológico fazem parte do roteiro familiar."
     }
   ],
 
-  "Orçamento médio (10.000+)": [
+  "Orçamento Alto (10.000+)": [
     {
       "Local": "China",
       "Cidade": "Pequim",
       "Clima": "Temperado",
-      "Atividade": "Templos, Palácios, Muralha da China e excursões (R$ 9.500)",
+      "Atividade": "Passeios, Museus, Aventura (R$ 9.500)",
       "Acomodacao": "Hotel (Happy Dragon Universal - R$ 1.479)",
       "Alimentacao": "R$ 20,11 - R$ 47,27",
       "Valor total": "R$ 19.500",
@@ -152,8 +196,8 @@
     {
       "Local": "Tailândia",
       "Cidade": "Bangkok",
-      "Clima": "Tropical quente",
-      "Atividade": "Palácios, passeios de barco, locais históricos e excursões (R$ 4.000)",
+      "Clima": "Tropical",
+      "Atividade": "Aventura, Natureza, Passeios (R$ 4.000)",
       "Acomodacao": "Hotel (DB Plus - R$ 760,97)",
       "Alimentacao": "R$ 50,15 - R$ 99,97",
       "Valor total": "R$ 14.000",
@@ -163,8 +207,8 @@
     {
       "Local": "EUA",
       "Cidade": "Orlando",
-      "Clima": "Subtropical úmido",
-      "Atividade": "Disney, SeaWorld, LegoLand e outros parques (R$ 4.966)",
+      "Clima": "Subtropical",
+      "Atividade": "Parques (R$ 4.966)",
       "Acomodacao": "Hotel (SonoHotel - R$ 2.619)",
       "Alimentacao": "R$ 445,84 - R$ 813,93",
       "Valor total": "R$ 20.000",
@@ -175,7 +219,7 @@
       "Local": "Itália",
       "Cidade": "Roma",
       "Clima": "Mediterrâneo",
-      "Atividade": "Coliseu, Museus, locais históricos e culturais (R$ 3.200)",
+      "Atividade": "Museus, Passeios (R$ 3.200)",
       "Acomodacao": "Hotel (MF Hotel - R$ 2.510)",
       "Alimentacao": "R$ 389,27 - R$ 834,15",
       "Valor total": "R$ 20.000",
@@ -185,8 +229,8 @@
     {
       "Local": "Brasil",
       "Cidade": "Ilha Grande",
-      "Clima": "Tropical úmido",
-      "Atividade": "Praias e passeios (Grátis e Pagos)",
+      "Clima": "Tropical",
+      "Atividade": "Natureza, Passeios",
       "Acomodacao": "Hotel (Bonito Paraíso - R$ 3.850)",
       "Alimentacao": "R$ 159 - R$ 375",
       "Valor total": "R$ 18.500",
@@ -194,15 +238,37 @@
       "Descrição": "Ilha de natureza preservada, trilhas e enseadas de água clara. Passeios de barco e praias variadas, ambiente sem carros e clima de refúgio."
     },
     {
+      "Local": "Espanha",
+      "Cidade": "Barcelona",
+      "Clima": "Mediterrâneo",
+      "Atividade": "Museus, Passeios, Praias (R$ 4.500)",
+      "Acomodacao": "Hotel (Hotel Jazz - R$ 3.200)",
+      "Alimentacao": "R$ 500 - R$ 850",
+      "Valor total": "R$ 19.000",
+      "Integrantes": "2 adultos e 1 criança",
+      "Descrição": "Cidade costeira com arquitetura modernista, praias e museus renomados. Passeios pelo Parque Güell e Sagrada Família complementam o roteiro familiar."
+    },
+    {
       "Local": "Colômbia",
       "Cidade": "San Andrés",
-      "Clima": "Tropical quente",
-      "Atividade": "Paraquedismo, trilhas, praias (R$ 1.377)",
+      "Clima": "Tropical",
+      "Atividade": "Aventura, Natureza, Passeios",
       "Acomodacao": "Hotel (Hotel Isla Bonita - R$ 2.358)",
       "Alimentacao": "R$ 379 - R$ 619",
       "Valor total": "R$ 20.000",
       "Integrantes": "2 adultos e 2 crianças",
       "Descrição": "Ilha caribenha conhecida pelo mar colorido e águas claras. Boa para snorkel, mergulho e circuitos pela ilha, com clima quente o ano inteiro."
+    },
+    {
+      "Local": "Portugal",
+      "Cidade": "Lisboa",
+      "Clima": "Mediterrâneo",
+      "Atividade": "Museus, Passeios, Gastronomia (R$ 3.700)",
+      "Acomodacao": "Hotel (Hotel Roma - R$ 2.880)",
+      "Alimentacao": "R$ 420 - R$ 800",
+      "Valor total": "R$ 17.000",
+      "Integrantes": "2 adultos e 2 crianças",
+      "Descrição": "Capital portuguesa com miradouros, museus e gastronomia marcante. Passeios de bonde histórico, visita a Belém e fácil acesso a praias próximas."
     }
   ]
 }

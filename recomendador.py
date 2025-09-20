@@ -159,15 +159,15 @@ def executar_programa(caminho_json: str):    #Execução do programa
 
     while True:
 
-        faixa = resposta_unica("Escolha uma FAIXA DE ORÇAMENTO (ou pule)", op["faixas"], pode_pular=True)
-        grupo = resposta_unica("Escolha o TAMANHO DO GRUPO (ou pule)", op["grupos"], pode_pular=True)
-        climas = prompt_opcao_multipla("Escolha CLIMAS de interesse (ou pule)", op["climas"], pode_pular=True, limite=5)
-        atividades = prompt_opcao_multipla("Escolha ATIVIDADES de interesse (ou pule)", op["atividades"], pode_pular=True, limite=6)
+        faixa = resposta_unica("Me informe qual é a sua faixa de orçamento para essa viagem, ou pule, se desejar.", op["faixas"], pode_pular=True)
+        grupo = resposta_unica("Me diga o tamanho do grupo de pessoas que vão na viagem, ou pule, se desejar.", op["grupos"], pode_pular=True)
+        climas = prompt_opcao_multipla("Que tipos de clima você tem preferência?", op["climas"], pode_pular=False, limite=5)
+        atividades = prompt_opcao_multipla("Que tipos de atividades você está buscando?", op["atividades"], pode_pular=True, limite=6)
 
         matches = [d for d in itens if respostas_filtro(d, faixa, grupo, climas, atividades)]
 
         if not matches:
-            print("\nNenhuma opção respostas_filtro aos critérios selecionados.")
+            print("\nInfelizmente nao encontramos nenhum destino que se encaixe nos seus criterios :(.")
             resp = input("Deseja recomeçar? (s/n): ").strip().lower()
             if resp == "s":
                 continue

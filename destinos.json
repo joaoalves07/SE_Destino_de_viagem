@@ -3,24 +3,24 @@
     {
       "Local": "Brasil",
       "Cidade": "Aracaju",
-      "Clima": "Quente/Seco",
-      "Atividade": "Aventura, Museus, Natureza (R$ 305)",
+      "Clima": "Quente",
+      "Atividade": "Aventura, Histórico, Natureza (R$ 305)",
       "Acomodacao": "Hotéis de baixo custo (Araras Praia Hotel - R$ 1.330)",
       "Alimentacao": "R$ 56 - R$ 90",
       "Valor total": "R$ 3.000",
       "Integrantes": "1 pessoa",
-      "Descrição": "Capital sergipana com orla extensa e clima quente o ano todo. Boa para passeios de caiaque, trilhas leves, praias tranquilas e visitas a museus locais. Ideal para quem busca custo baixo e ritmo sossegado."
+      "Descrição": "Capital sergipana com orla extensa e clima quente o ano todo. Boa para passeios de caiaque, trilhas leves, praias tranquilas e visitas a Histórico locais. Ideal para quem busca custo baixo e ritmo sossegado."
     },
     {
       "Local": "Chile",
       "Cidade": "Santiago",
-      "Clima": "Quente/Seco",
-      "Atividade": "Aventura, Museus, Natureza (R$ 837,23)",
+      "Clima": "Quente",
+      "Atividade": "Aventura, Histórico, Natureza (R$ 837,23)",
       "Acomodacao": "Hotel de baixo custo (Tremo Bellavista - R$ 1.386,70)",
       "Alimentacao": "R$ 82,01 - R$ 134,80",
       "Valor total": "R$ 4.600",
       "Integrantes": "1 pessoa",
-      "Descrição": "Cidade aos pés da Cordilheira, combinando vida urbana, museus e fácil acesso a atividades na neve durante o inverno. Opção versátil para quem quer cultura e aventura em um mesmo roteiro."
+      "Descrição": "Cidade aos pés da Cordilheira, combinando vida urbana, Histórico e fácil acesso a atividades na neve durante o inverno. Opção versátil para quem quer cultura e aventura em um mesmo roteiro."
     },
     {
       "Local": "Brasil",
@@ -36,8 +36,8 @@
     {
       "Local": "Brasil",
       "Cidade": "Salvador",
-      "Clima": "Quente/Seco",
-      "Atividade": "Museus, Passeios (R$ 440)",
+      "Clima": "Quente",
+      "Atividade": "Histórico, Passeios (R$ 440)",
       "Acomodacao": "Hotel de baixo custo (B Hotel Salvador - R$ 1.501,36)",
       "Alimentacao": "R$ 151,60 - R$ 313,20",
       "Valor total": "R$ 5.000",
@@ -48,7 +48,7 @@
       "Local": "Brasil",
       "Cidade": "Florianópolis",
       "Clima": "Subtropical",
-      "Atividade": "Museus, Natureza (R$ 229)",
+      "Atividade": "Histórico, Natureza (R$ 229)",
       "Acomodacao": "Hotel de baixo custo (Hotel Dom Fish - R$ 1.229,27)",
       "Alimentacao": "R$ 142,20 - R$ 365,04",
       "Valor total": "R$ 5.000",
@@ -59,7 +59,7 @@
       "Local": "Brasil",
       "Cidade": "Natal",
       "Clima": "Tropical",
-      "Atividade": "Praias, Passeios de buggy, Museus (R$ 560)",
+      "Atividade": "Praias, Passeios, Histórico (R$ 560)",
       "Acomodacao": "Hotel de baixo custo (Hotel Italia Beach - R$ 1.480)",
       "Alimentacao": "R$ 95 - R$ 210",
       "Valor total": "R$ 4.800",
@@ -69,13 +69,13 @@
     {
       "Local": "Brasil",
       "Cidade": "Aracaju",
-      "Clima": "Quente/Seco",
-      "Atividade": "Aventura, Museus, Natureza (R$ 114)",
+      "Clima": "Quente",
+      "Atividade": "Aventura, Histórico, Natureza (R$ 114)",
       "Acomodacao": "Hotéis de baixo custo (Araras Praia Hotel - R$ 1.580)",
       "Alimentacao": "R$ 165,90 - R$ 269,10",
       "Valor total": "R$ 5.000",
       "Integrantes": "2 adultos e 2 crianças",
-      "Descrição": "Destino familiar com orla organizada, ciclovias e praias calmas. Trilhas curtas, museus regionais e custo acessível para quem viaja com crianças."
+      "Descrição": "Destino familiar com orla organizada, ciclovias e praias calmas. Trilhas curtas, Histórico regionais e custo acessível para quem viaja com crianças."
     },
     {
       "Local": "Brasil",
@@ -87,20 +87,151 @@
       "Valor total": "R$ 5.000",
       "Integrantes": "2 adultos e 2 crianças",
       "Descrição": "Destino com orla extensa, praia do Futuro e passeios para Canoa Quebrada e Beach Park. Combina diversão infantil e vida cultural cearense."
+    },
+    {
+      "Local": "Bolívia",
+      "Cidade": "La Paz",
+      "Clima": "Frio",
+      "Atividade": "Aventura, Histórico, Passeios (R$ 200)",
+      "Acomodacao": "Hostel (Hospedaje Andino - R$ 820)",
+      "Alimentacao": "R$ 80 - R$ 140",
+      "Valor total": "R$ 4.200",
+      "Integrantes": "1 pessoa",
+      "Descrição": "Cidade andina em grande altitude, com roteiros históricos, museus e aventuras nos Andes."
+    },
+    {
+      "Local": "Brasil",
+      "Cidade": "Maceió",
+      "Clima": "Tropical",
+      "Atividade": "Praias, Passeios, Natureza (R$ 240)",
+      "Acomodacao": "Hotel de baixo custo (Hotel Mar Azul - R$ 1.380)",
+      "Alimentacao": "R$ 100 - R$ 200",
+      "Valor total": "R$ 4.600",
+      "Integrantes": "2 adultos e 1 criança",
+      "Descrição": "Litoral de águas claras, passeios de jangada e gastronomia regional para toda a família."
+    },
+    {
+      "Local": "Paraguai",
+      "Cidade": "Assunção",
+      "Clima": "Quente",
+      "Atividade": "Histórico, Cultura, Passeios (R$ 180)",
+      "Acomodacao": "Hotel (Hotel Centro Assunção - R$ 1.050)",
+      "Alimentacao": "R$ 70 - R$ 160",
+      "Valor total": "R$ 3.800",
+      "Integrantes": "2 adultos",
+      "Descrição": "Capital paraguaia com praças, museus e vida cultural. Boa para roteiros urbanos acessíveis."
+    },
+    {
+      "Local": "Itália",
+      "Cidade": "Florença",
+      "Clima": "Temperado",
+      "Atividade": "Aventura, Histórico, Natureza (R$ 1457)",
+      "Acomodacao": "Hotel (Hotel Florença Center - R$ 2787)",
+      "Alimentacao": "R$ 245 - R$ 1068",
+      "Valor total": "R$ 8871",
+      "Integrantes": "2 adultos e 2 crianças",
+      "Descrição": "Destino em Florença, conhecido por seu clima temperado e opções de Aventura, Histórico, Natureza."
+    },
+    {
+      "Local": "Brasil",
+      "Cidade": "Gramado",
+      "Clima": "Tropical",
+      "Atividade": "Natureza, Passeios, Gastronomia (R$ 1194)",
+      "Acomodacao": "Hotel (Hotel Gramado Center - R$ 4196)",
+      "Alimentacao": "R$ 208 - R$ 1003",
+      "Valor total": "R$ 13435",
+      "Integrantes": "2 adultos",
+      "Descrição": "Destino em Gramado, conhecido por seu clima tropical e opções de Natureza, Passeios, Gastronomia."
+    },
+    {
+      "Local": "Brasil",
+      "Cidade": "Gramado",
+      "Clima": "Temperado",
+      "Atividade": "Parques, Histórico, Passeios (R$ 1200)",
+      "Acomodacao": "Hotel (Hotel Gramado Center - R$ 2153)",
+      "Alimentacao": "R$ 218 - R$ 967",
+      "Valor total": "R$ 3662",
+      "Integrantes": "2 adultos e 1 criança",
+      "Descrição": "Destino em Gramado, conhecido por seu clima temperado e opções de Parques, Histórico, Passeios."
+    },
+    {
+      "Local": "Brasil",
+      "Cidade": "Gramado",
+      "Clima": "Desertico",
+      "Atividade": "Histórico, Cultura, Passeios (R$ 1070)",
+      "Acomodacao": "Hotel (Hotel Gramado Center - R$ 3863)",
+      "Alimentacao": "R$ 137 - R$ 487",
+      "Valor total": "R$ 9808",
+      "Integrantes": "2 adultos",
+      "Descrição": "Destino em Gramado, conhecido por seu clima desertico e opções de Histórico, Cultura, Passeios."
+    },
+    {
+      "Local": "Noruega",
+      "Cidade": "Oslo",
+      "Clima": "Frio",
+      "Atividade": "Natureza, Passeios, Histórico (R$ 1958)",
+      "Acomodacao": "Hotel (Hotel Oslo Central - R$ 3900)",
+      "Alimentacao": "R$ 194 - R$ 540",
+      "Valor total": "R$ 12535",
+      "Integrantes": "2 adultos e 2 crianças",
+      "Descrição": "Destino em Oslo, com clima frio e atrações voltadas para Natureza, Passeios, Histórico."
+    },
+    {
+      "Local": "Áustria",
+      "Cidade": "Viena",
+      "Clima": "Temperado",
+      "Atividade": "Histórico, Cultura, Gastronomia (R$ 685)",
+      "Acomodacao": "Hotel (Hotel Viena Central - R$ 1102)",
+      "Alimentacao": "R$ 418 - R$ 1335",
+      "Valor total": "R$ 22430",
+      "Integrantes": "2 adultos",
+      "Descrição": "Destino em Viena, com clima temperado e atrações voltadas para Histórico, Cultura, Gastronomia."
+    },
+    {
+      "Local": "Emirados Árabes",
+      "Cidade": "Dubai",
+      "Clima": "Quente",
+      "Atividade": "Passeios, Cultura, Gastronomia (R$ 1963)",
+      "Acomodacao": "Hotel (Hotel Dubai Central - R$ 2332)",
+      "Alimentacao": "R$ 447 - R$ 824",
+      "Valor total": "R$ 6196",
+      "Integrantes": "2 adultos",
+      "Descrição": "Destino em Dubai, com clima quente e atrações voltadas para Passeios, Cultura, Gastronomia."
+    },
+    {
+      "Local": "Chile",
+      "Cidade": "Puerto Varas",
+      "Clima": "Frio",
+      "Atividade": "Natureza, Passeios, Parques (R$ 2111)",
+      "Acomodacao": "Hotel (Hotel Puerto Varas Central - R$ 1662)",
+      "Alimentacao": "R$ 495 - R$ 1051",
+      "Valor total": "R$ 12331",
+      "Integrantes": "2 adultos e 1 criança",
+      "Descrição": "Destino em Puerto Varas, com clima frio e atrações voltadas para Natureza, Passeios, Parques."
+    },
+    {
+      "Local": "Grécia",
+      "Cidade": "Santorini",
+      "Clima": "Mediterrâneo",
+      "Atividade": "Praias, Passeios, Histórico (R$ 1516)",
+      "Acomodacao": "Hotel (Hotel Santorini Central - R$ 4793)",
+      "Alimentacao": "R$ 177 - R$ 343",
+      "Valor total": "R$ 14297",
+      "Integrantes": "2 adultos",
+      "Descrição": "Destino em Santorini, com clima mediterrâneo e atrações voltadas para Praias, Passeios, Histórico."
     }
   ],
-
   "Orçamento médio (5.500 - 10.000)": [
     {
       "Local": "Peru",
       "Cidade": "Cusco",
       "Clima": "Temperado",
-      "Atividade": "Aventura, Museus (R$ 950,42)",
+      "Atividade": "Aventura, Histórico (R$ 950,42)",
       "Acomodacao": "Hotel (Hidden Garden - R$ 693,35)",
       "Alimentacao": "R$ 119,96 - R$ 191,08",
       "Valor total": "R$ 6.200",
       "Integrantes": "1 pessoa",
-      "Descrição": "Antiga capital inca, ponto de partida para o Vale Sagrado e Machu Picchu. Combina história, museus e passeios em altitude, ideal para viajantes solo que buscam cultura e aventura."
+      "Descrição": "Antiga capital inca, ponto de partida para o Vale Sagrado e Machu Picchu. Combina história, Histórico e passeios em altitude, ideal para viajantes solo que buscam cultura e aventura."
     },
     {
       "Local": "Brasil",
@@ -111,7 +242,7 @@
       "Alimentacao": "R$ 58,80 - R$ 144,00",
       "Valor total": "R$ 6.000",
       "Integrantes": "1 pessoa",
-      "Descrição": "Cidade litorânea com jardins na orla, centro histórico e museus. Ótima para caminhadas, bicicleta e passeios culturais de curta duração."
+      "Descrição": "Cidade litorânea com jardins na orla, centro histórico e Histórico. Ótima para caminhadas, bicicleta e passeios culturais de curta duração."
     },
     {
       "Local": "Brasil",
@@ -127,19 +258,19 @@
     {
       "Local": "Peru",
       "Cidade": "Lima",
-      "Clima": "Árido/Desertico",
-      "Atividade": "Museus, Parques, Passeios (R$ 1.461)",
+      "Clima": "Desertico",
+      "Atividade": "Histórico, Parques, Passeios (R$ 1.461)",
       "Acomodacao": "Hotel (Hotel Milan - R$ 962,99)",
       "Alimentacao": "R$ 177,78 - R$ 244,57",
       "Valor total": "R$ 8.300",
       "Integrantes": "2 adultos",
-      "Descrição": "Capital costeira com falésias, parques e forte cena gastronômica. Bairros com vida cultural e museus que contam a história pré-colombiana."
+      "Descrição": "Capital costeira com falésias, parques e forte cena gastronômica. Bairros com vida cultural e Histórico que contam a história pré-colombiana."
     },
     {
       "Local": "Brasil / Argentina",
       "Cidade": "Foz do Iguaçu",
       "Clima": "Subtropical",
-      "Atividade": "Natureza, Parques, Museus (R$ 1.164)",
+      "Atividade": "Natureza, Parques, Histórico (R$ 1.164)",
       "Acomodacao": "Pousada (Pousada Express JK - R$ 910)",
       "Alimentacao": "R$ 300 - R$ 516",
       "Valor total": "R$ 10.000",
@@ -150,7 +281,7 @@
       "Local": "México",
       "Cidade": "Cancún",
       "Clima": "Tropical",
-      "Atividade": "Praias, Passeios de barco, Cultura Maia (R$ 2.050)",
+      "Atividade": "Praias, Passeios, Histórico (R$ 2.050)",
       "Acomodacao": "Hotel (Suites Malecon - R$ 1.840)",
       "Alimentacao": "R$ 290 - R$ 480",
       "Valor total": "R$ 9.500",
@@ -161,32 +292,174 @@
       "Local": "Brasil",
       "Cidade": "Curitiba",
       "Clima": "Subtropical",
-      "Atividade": "Natureza, Parques, Museus, Passeios (R$ 104)",
+      "Atividade": "Natureza, Parques, Histórico, Passeios (R$ 104)",
       "Acomodacao": "Hotel (Granville Hotel - R$ 904)",
       "Alimentacao": "R$ 360 - R$ 732",
       "Valor total": "R$ 10.000",
       "Integrantes": "2 adultos e 2 crianças",
-      "Descrição": "Cidade organizada, com muitos parques, museus e atrações fáceis de percorrer. Boa para famílias que curtem natureza urbana e roteiros culturais."
+      "Descrição": "Cidade organizada, com muitos parques, Histórico e atrações fáceis de percorrer. Boa para famílias que curtem natureza urbana e roteiros culturais."
     },
     {
       "Local": "Argentina",
       "Cidade": "Buenos Aires",
       "Clima": "Temperado",
-      "Atividade": "Museus, Passeios, Cultura (R$ 1.200)",
+      "Atividade": "Histórico, Passeios, Cultura (R$ 1.200)",
       "Acomodacao": "Hotel (Hotel Mundial - R$ 1.450)",
       "Alimentacao": "R$ 280 - R$ 500",
       "Valor total": "R$ 9.800",
       "Integrantes": "2 adultos e 2 crianças",
-      "Descrição": "Capital argentina com arquitetura histórica, museus e gastronomia marcante. Passeios pelo Caminito, San Telmo e zoológico ecológico fazem parte do roteiro familiar."
+      "Descrição": "Capital argentina com arquitetura histórica, Histórico e gastronomia marcante. Passeios pelo Caminito, San Telmo e zoológico ecológico fazem parte do roteiro familiar."
+    },
+    {
+      "Local": "Chile",
+      "Cidade": "San Pedro de Atacama",
+      "Clima": "Desertico",
+      "Atividade": "Natureza, Aventura, Passeios (R$ 1.900)",
+      "Acomodacao": "Pousada (Hostal Cactus - R$ 2.100)",
+      "Alimentacao": "R$ 200 - R$ 350",
+      "Valor total": "R$ 9.200",
+      "Integrantes": "2 adultos",
+      "Descrição": "Deserto com paisagens únicas, lagunas e observação astronômica."
+    },
+    {
+      "Local": "Portugal",
+      "Cidade": "Porto",
+      "Clima": "Mediterrâneo",
+      "Atividade": "Histórico, Cultura, Gastronomia (R$ 1.700)",
+      "Acomodacao": "Hotel (Hotel Douro View - R$ 2.500)",
+      "Alimentacao": "R$ 250 - R$ 450",
+      "Valor total": "R$ 9.800",
+      "Integrantes": "2 adultos e 2 crianças",
+      "Descrição": "Cidade à beira do Douro, com caves de vinho, passeios históricos e boa gastronomia."
+    },
+    {
+      "Local": "EUA",
+      "Cidade": "Nova York",
+      "Clima": "Temperado",
+      "Atividade": "Cultura, Passeios, Histórico (R$ 2.200)",
+      "Acomodacao": "Hotel (NYC Hostel Manhattan - R$ 2.900)",
+      "Alimentacao": "R$ 350 - R$ 600",
+      "Valor total": "R$ 10.000",
+      "Integrantes": "1 pessoa",
+      "Descrição": "Metrópole icônica com museus, arranha-céus e intensa vida cultural."
+    },
+    {
+      "Local": "Japão",
+      "Cidade": "Quioto",
+      "Clima": "Quente",
+      "Atividade": "Praias, Passeios, Cultura (R$ 895)",
+      "Acomodacao": "Hotel (Hotel Quioto Center - R$ 4543)",
+      "Alimentacao": "R$ 366 - R$ 791",
+      "Valor total": "R$ 8862",
+      "Integrantes": "2 adultos e 2 crianças",
+      "Descrição": "Destino em Quioto, conhecido por seu clima quente e opções de Praias, Passeios, Cultura."
+    },
+    {
+      "Local": "Itália",
+      "Cidade": "Florença",
+      "Clima": "Quente",
+      "Atividade": "Histórico, Cultura, Passeios (R$ 1924)",
+      "Acomodacao": "Hotel (Hotel Florença Center - R$ 816)",
+      "Alimentacao": "R$ 131 - R$ 462",
+      "Valor total": "R$ 19447",
+      "Integrantes": "1 pessoa",
+      "Descrição": "Destino em Florença, conhecido por seu clima quente e opções de Histórico, Cultura, Passeios."
+    },
+    {
+      "Local": "Brasil",
+      "Cidade": "Bonito",
+      "Clima": "Quente",
+      "Atividade": "Praias, Passeios, Cultura (R$ 412)",
+      "Acomodacao": "Hotel (Hotel Bonito Center - R$ 2946)",
+      "Alimentacao": "R$ 347 - R$ 1166",
+      "Valor total": "R$ 13545",
+      "Integrantes": "2 adultos e 2 crianças",
+      "Descrição": "Destino em Bonito, conhecido por seu clima quente e opções de Praias, Passeios, Cultura."
+    },
+    {
+      "Local": "Itália",
+      "Cidade": "Florença",
+      "Clima": "Subtropical",
+      "Atividade": "Parques, Histórico, Passeios (R$ 1132)",
+      "Acomodacao": "Hotel (Hotel Florença Center - R$ 2429)",
+      "Alimentacao": "R$ 169 - R$ 957",
+      "Valor total": "R$ 10109",
+      "Integrantes": "2 adultos e 2 crianças",
+      "Descrição": "Destino em Florença, conhecido por seu clima subtropical e opções de Parques, Histórico, Passeios."
+    },
+    {
+      "Local": "Canadá",
+      "Cidade": "Vancouver",
+      "Clima": "Tropical",
+      "Atividade": "Natureza, Passeios, Gastronomia (R$ 1271)",
+      "Acomodacao": "Hotel (Hotel Vancouver Center - R$ 2905)",
+      "Alimentacao": "R$ 117 - R$ 463",
+      "Valor total": "R$ 21370",
+      "Integrantes": "1 pessoa",
+      "Descrição": "Destino em Vancouver, conhecido por seu clima tropical e opções de Natureza, Passeios, Gastronomia."
+    },
+    {
+      "Local": "Islândia",
+      "Cidade": "Reykjavik",
+      "Clima": "Frio",
+      "Atividade": "Natureza, Aventura, Passeios (R$ 2137)",
+      "Acomodacao": "Hotel (Hotel Reykjavik Central - R$ 3978)",
+      "Alimentacao": "R$ 592 - R$ 1330",
+      "Valor total": "R$ 16206",
+      "Integrantes": "2 adultos",
+      "Descrição": "Destino em Reykjavik, com clima frio e atrações voltadas para Natureza, Aventura, Passeios."
+    },
+    {
+      "Local": "Hungria",
+      "Cidade": "Budapeste",
+      "Clima": "Temperado",
+      "Atividade": "Histórico, Passeios, Cultura (R$ 308)",
+      "Acomodacao": "Hotel (Hotel Budapeste Central - R$ 5525)",
+      "Alimentacao": "R$ 177 - R$ 526",
+      "Valor total": "R$ 8303",
+      "Integrantes": "2 adultos",
+      "Descrição": "Destino em Budapeste, com clima temperado e atrações voltadas para Histórico, Passeios, Cultura."
+    },
+    {
+      "Local": "EUA",
+      "Cidade": "Los Angeles",
+      "Clima": "Subtropical",
+      "Atividade": "Praias, Passeios, Cultura (R$ 1172)",
+      "Acomodacao": "Hotel (Hotel Los Angeles Central - R$ 2443)",
+      "Alimentacao": "R$ 365 - R$ 1168",
+      "Valor total": "R$ 17725",
+      "Integrantes": "2 adultos",
+      "Descrição": "Destino em Los Angeles, com clima subtropical e atrações voltadas para Praias, Passeios, Cultura."
+    },
+    {
+      "Local": "Argentina",
+      "Cidade": "Ushuaia",
+      "Clima": "Frio",
+      "Atividade": "Natureza, Aventura, Passeios (R$ 333)",
+      "Acomodacao": "Hotel (Hotel Ushuaia Central - R$ 2104)",
+      "Alimentacao": "R$ 182 - R$ 374",
+      "Valor total": "R$ 13227",
+      "Integrantes": "2 adultos e 1 criança",
+      "Descrição": "Destino em Ushuaia, com clima frio e atrações voltadas para Natureza, Aventura, Passeios."
+    },
+    {
+      "Local": "México",
+      "Cidade": "Guadalajara",
+      "Clima": "Tropical",
+      "Atividade": "Cultura, Histórico, Passeios (R$ 507)",
+      "Acomodacao": "Hotel (Hotel Guadalajara Central - R$ 4203)",
+      "Alimentacao": "R$ 362 - R$ 981",
+      "Valor total": "R$ 25865",
+      "Integrantes": "1 pessoa",
+      "Descrição": "Destino em Guadalajara, com clima tropical e atrações voltadas para Cultura, Histórico, Passeios."
     }
   ],
-
   "Orçamento Alto (10.000+)": [
     {
       "Local": "China",
       "Cidade": "Pequim",
       "Clima": "Temperado",
-      "Atividade": "Passeios, Museus, Aventura (R$ 9.500)",
+      "Atividade": "Passeios, Histórico, Aventura (R$ 9.500)",
       "Acomodacao": "Hotel (Happy Dragon Universal - R$ 1.479)",
       "Alimentacao": "R$ 20,11 - R$ 47,27",
       "Valor total": "R$ 19.500",
@@ -219,12 +492,12 @@
       "Local": "Itália",
       "Cidade": "Roma",
       "Clima": "Mediterrâneo",
-      "Atividade": "Museus, Passeios (R$ 3.200)",
+      "Atividade": "Histórico, Passeios (R$ 3.200)",
       "Acomodacao": "Hotel (MF Hotel - R$ 2.510)",
       "Alimentacao": "R$ 389,27 - R$ 834,15",
       "Valor total": "R$ 20.000",
       "Integrantes": "2 adultos",
-      "Descrição": "Museu a céu aberto com ruínas, praças e igrejas emblemáticas. Boa para caminhar, visitar museus e apreciar a gastronomia local."
+      "Descrição": "Museu a céu aberto com ruínas, praças e igrejas emblemáticas. Boa para caminhar, visitar Histórico e apreciar a gastronomia local."
     },
     {
       "Local": "Brasil",
@@ -241,12 +514,12 @@
       "Local": "Espanha",
       "Cidade": "Barcelona",
       "Clima": "Mediterrâneo",
-      "Atividade": "Museus, Passeios, Praias (R$ 4.500)",
+      "Atividade": "Histórico, Passeios, Praias (R$ 4.500)",
       "Acomodacao": "Hotel (Hotel Jazz - R$ 3.200)",
       "Alimentacao": "R$ 500 - R$ 850",
       "Valor total": "R$ 19.000",
       "Integrantes": "2 adultos e 1 criança",
-      "Descrição": "Cidade costeira com arquitetura modernista, praias e museus renomados. Passeios pelo Parque Güell e Sagrada Família complementam o roteiro familiar."
+      "Descrição": "Cidade costeira com arquitetura modernista, praias e Histórico renomados. Passeios pelo Parque Güell e Sagrada Família complementam o roteiro familiar."
     },
     {
       "Local": "Colômbia",
@@ -263,12 +536,188 @@
       "Local": "Portugal",
       "Cidade": "Lisboa",
       "Clima": "Mediterrâneo",
-      "Atividade": "Museus, Passeios, Gastronomia (R$ 3.700)",
+      "Atividade": "Histórico, Passeios, Gastronomia (R$ 3.700)",
       "Acomodacao": "Hotel (Hotel Roma - R$ 2.880)",
       "Alimentacao": "R$ 420 - R$ 800",
       "Valor total": "R$ 17.000",
       "Integrantes": "2 adultos e 2 crianças",
-      "Descrição": "Capital portuguesa com miradouros, museus e gastronomia marcante. Passeios de bonde histórico, visita a Belém e fácil acesso a praias próximas."
+      "Descrição": "Capital portuguesa com miradouros, Histórico e gastronomia marcante. Passeios de bonde histórico, visita a Belém e fácil acesso a praias próximas."
+    },
+    {
+      "Local": "Japão",
+      "Cidade": "Tóquio",
+      "Clima": "Temperado",
+      "Atividade": "Cultura, Passeios, Histórico (R$ 4.200)",
+      "Acomodacao": "Hotel (Shinjuku Stay - R$ 6.500)",
+      "Alimentacao": "R$ 600 - R$ 1100",
+      "Valor total": "R$ 22.000",
+      "Integrantes": "2 adultos",
+      "Descrição": "Metrópole com templos, alta tecnologia e vida cultural intensa."
+    },
+    {
+      "Local": "África do Sul",
+      "Cidade": "Cidade do Cabo",
+      "Clima": "Subtropical",
+      "Atividade": "Natureza, Aventura, Passeios (R$ 3.000)",
+      "Acomodacao": "Hotel (Cape Town Family Lodge - R$ 4.200)",
+      "Alimentacao": "R$ 400 - R$ 750",
+      "Valor total": "R$ 18.500",
+      "Integrantes": "2 adultos e 1 criança",
+      "Descrição": "Cidade costeira com montanhas, vinícolas e passeios de safári próximos."
+    },
+    {
+      "Local": "Suíça",
+      "Cidade": "Zurique",
+      "Clima": "Frio",
+      "Atividade": "Natureza, Histórico, Passeios (R$ 5.000)",
+      "Acomodacao": "Hotel (Swiss Alps Hotel - R$ 7.200)",
+      "Alimentacao": "R$ 650 - R$ 1200",
+      "Valor total": "R$ 24.000",
+      "Integrantes": "2 adultos e 2 crianças",
+      "Descrição": "Cidade suíça com lagos, Alpes próximos e museus. Boa estrutura para famílias em clima frio."
+    },
+    {
+      "Local": "Austrália",
+      "Cidade": "Sydney",
+      "Clima": "Subtropical",
+      "Atividade": "Praias, Passeios, Cultura (R$ 3.800)",
+      "Acomodacao": "Hotel (Opera House View - R$ 5.000)",
+      "Alimentacao": "R$ 500 - R$ 950",
+      "Valor total": "R$ 20.500",
+      "Integrantes": "2 adultos",
+      "Descrição": "Cidade vibrante com praias famosas, ópera e passeios culturais."
+    },
+    {
+      "Local": "Portugal",
+      "Cidade": "Madeira",
+      "Clima": "Quente",
+      "Atividade": "Parques, Histórico, Passeios (R$ 1130)",
+      "Acomodacao": "Hotel (Hotel Madeira Center - R$ 3238)",
+      "Alimentacao": "R$ 227 - R$ 313",
+      "Valor total": "R$ 20057",
+      "Integrantes": "1 pessoa",
+      "Descrição": "Destino em Madeira, conhecido por seu clima quente e opções de Parques, Histórico, Passeios."
+    },
+    {
+      "Local": "Brasil",
+      "Cidade": "Bonito",
+      "Clima": "Frio",
+      "Atividade": "Aventura, Histórico, Natureza (R$ 1457)",
+      "Acomodacao": "Hotel (Hotel Bonito Center - R$ 1527)",
+      "Alimentacao": "R$ 95 - R$ 792",
+      "Valor total": "R$ 14146",
+      "Integrantes": "2 adultos e 2 crianças",
+      "Descrição": "Destino em Bonito, conhecido por seu clima frio e opções de Aventura, Histórico, Natureza."
+    },
+    {
+      "Local": "Brasil",
+      "Cidade": "Gramado",
+      "Clima": "Temperado",
+      "Atividade": "Aventura, Parques, Natureza (R$ 1324)",
+      "Acomodacao": "Hotel (Hotel Gramado Center - R$ 1590)",
+      "Alimentacao": "R$ 126 - R$ 370",
+      "Valor total": "R$ 8613",
+      "Integrantes": "2 adultos",
+      "Descrição": "Destino em Gramado, conhecido por seu clima temperado e opções de Aventura, Parques, Natureza."
+    },
+    {
+      "Local": "Portugal",
+      "Cidade": "Madeira",
+      "Clima": "Quente",
+      "Atividade": "Praias, Passeios, Cultura (R$ 1403)",
+      "Acomodacao": "Hotel (Hotel Madeira Center - R$ 3806)",
+      "Alimentacao": "R$ 90 - R$ 1097",
+      "Valor total": "R$ 6336",
+      "Integrantes": "1 pessoa",
+      "Descrição": "Destino em Madeira, conhecido por seu clima quente e opções de Praias, Passeios, Cultura."
+    },
+    {
+      "Local": "México",
+      "Cidade": "Cidade do México",
+      "Clima": "Temperado",
+      "Atividade": "Aventura, Histórico, Natureza (R$ 1235)",
+      "Acomodacao": "Hotel (Hotel Cidade do México Center - R$ 3355)",
+      "Alimentacao": "R$ 94 - R$ 362",
+      "Valor total": "R$ 15423",
+      "Integrantes": "2 adultos e 2 crianças",
+      "Descrição": "Destino em Cidade do México, conhecido por seu clima temperado e opções de Aventura, Histórico, Natureza."
+    },
+    {
+      "Local": "México",
+      "Cidade": "Cidade do México",
+      "Clima": "Desertico",
+      "Atividade": "Praias, Passeios, Cultura (R$ 530)",
+      "Acomodacao": "Hotel (Hotel Cidade do México Center - R$ 4549)",
+      "Alimentacao": "R$ 134 - R$ 1179",
+      "Valor total": "R$ 19385",
+      "Integrantes": "2 adultos e 1 criança",
+      "Descrição": "Destino em Cidade do México, conhecido por seu clima desertico e opções de Praias, Passeios, Cultura."
+    },
+    {
+      "Local": "Grécia",
+      "Cidade": "Atenas",
+      "Clima": "Tropical",
+      "Atividade": "Natureza, Passeios, Gastronomia (R$ 285)",
+      "Acomodacao": "Hotel (Hotel Atenas Center - R$ 1797)",
+      "Alimentacao": "R$ 454 - R$ 1037",
+      "Valor total": "R$ 18400",
+      "Integrantes": "2 adultos e 1 criança",
+      "Descrição": "Destino em Atenas, conhecido por seu clima tropical e opções de Natureza, Passeios, Gastronomia."
+    },
+    {
+      "Local": "Espanha",
+      "Cidade": "Madri",
+      "Clima": "Mediterrâneo",
+      "Atividade": "Histórico, Cultura, Passeios (R$ 2404)",
+      "Acomodacao": "Hotel (Hotel Madri Central - R$ 5208)",
+      "Alimentacao": "R$ 247 - R$ 478",
+      "Valor total": "R$ 16220",
+      "Integrantes": "1 pessoa",
+      "Descrição": "Destino em Madri, com clima mediterrâneo e atrações voltadas para Histórico, Cultura, Passeios."
+    },
+    {
+      "Local": "Marrocos",
+      "Cidade": "Marrakech",
+      "Clima": "Desertico",
+      "Atividade": "Aventura, Histórico, Passeios (R$ 1386)",
+      "Acomodacao": "Hotel (Hotel Marrakech Central - R$ 2222)",
+      "Alimentacao": "R$ 314 - R$ 1365",
+      "Valor total": "R$ 25807",
+      "Integrantes": "2 adultos",
+      "Descrição": "Destino em Marrakech, com clima desertico e atrações voltadas para Aventura, Histórico, Passeios."
+    },
+    {
+      "Local": "Canadá",
+      "Cidade": "Montreal",
+      "Clima": "Frio",
+      "Atividade": "Histórico, Cultura, Passeios (R$ 1774)",
+      "Acomodacao": "Hotel (Hotel Montreal Central - R$ 3903)",
+      "Alimentacao": "R$ 584 - R$ 1271",
+      "Valor total": "R$ 18779",
+      "Integrantes": "2 adultos e 2 crianças",
+      "Descrição": "Destino em Montreal, com clima frio e atrações voltadas para Histórico, Cultura, Passeios."
+    },
+    {
+      "Local": "Itália",
+      "Cidade": "Milão",
+      "Clima": "Mediterrâneo",
+      "Atividade": "Histórico, Cultura, Gastronomia (R$ 497)",
+      "Acomodacao": "Hotel (Hotel Milão Central - R$ 5817)",
+      "Alimentacao": "R$ 469 - R$ 876",
+      "Valor total": "R$ 5822",
+      "Integrantes": "2 adultos e 2 crianças",
+      "Descrição": "Destino em Milão, com clima mediterrâneo e atrações voltadas para Histórico, Cultura, Gastronomia."
+    },
+    {
+      "Local": "Peru",
+      "Cidade": "Arequipa",
+      "Clima": "Temperado",
+      "Atividade": "Histórico, Natureza, Passeios (R$ 505)",
+      "Acomodacao": "Hotel (Hotel Arequipa Central - R$ 2494)",
+      "Alimentacao": "R$ 352 - R$ 358",
+      "Valor total": "R$ 11117",
+      "Integrantes": "2 adultos e 2 crianças",
+      "Descrição": "Destino em Arequipa, com clima temperado e atrações voltadas para Histórico, Natureza, Passeios."
     }
   ]
 }

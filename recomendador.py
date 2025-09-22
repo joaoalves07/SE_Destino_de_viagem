@@ -4,34 +4,34 @@ import sys
 from typing import Any, Dict, List, Set
 
 
-def padronizar_dinheiro(texto: str) -> float:
+def padronizar_dinheiro(texto: str) -> float:         # Faço a conversão de string de valor monetário para float.
     nums = re.findall(r"[\d\.]+(?:,\d+)?", texto or "")
     if not nums:
         return 0.0
     return float(nums[0].replace(".", "").replace(",", "."))
 
-def convert_passageiros(s: str) -> int:
+def convert_passageiros(s: str) -> int:           # Aqui pego o número de passageiros de uma string.
     s = (s or "").lower()
     if "1 pessoa" in s:
         return 1
     nums = re.findall(r"\d+", s)
     return sum(map(int, nums)) if nums else 1
 
-def separar_palavras(txt: str) -> List[str]:
+def separar_palavras(txt: str) -> List[str]:     # Separação das strings em uma lista.
     if not txt:
         return []
     partes = re.split(r",|/|;| e ", txt.lower())
     return [p.strip() for p in partes if p.strip()]
 
-def normalizar_atividades(txt: str) -> List[str]:
+def normalizar_atividades(txt: str) -> List[str]:        # Melhora a representação das atividades de uma string.
     txt = re.sub(r"\(r\$\s*[^)]*\)", "", txt or "", flags=re.I)
     return separar_palavras(txt)
 
-def carregar_base(caminho: str) -> Dict[str, Any]:
+def carregar_base(caminho: str) -> Dict[str, Any]:       # Carrega a base de dados que está no destinos.py
     with open(caminho, "r", encoding="utf-8") as f:
         return json.load(f)
 
-def listagem(db: Dict[str, Any]) -> List[Dict[str, Any]]:
+def listagem(db: Dict[str, Any]) -> List[Dict[str, Any]]:       # Tranformo os destinos da base de dados em dicionarios.
     itens = []
     for faixa, lista in db.items():
         for it in lista:
@@ -40,7 +40,7 @@ def listagem(db: Dict[str, Any]) -> List[Dict[str, Any]]:
             itens.append(it)
     return itens
 
-def criar_menus(itens: List[Dict[str, Any]]) -> Dict[str, List[str]]:
+def criar_menus(itens: List[Dict[str, Any]]) -> Dict[str, List[str]]:      # Cria os menus que o usuário vai usar.
     faixas: List[str] = []
     for it in itens:
         if it["_Faixa"] not in faixas:
@@ -61,8 +61,8 @@ def criar_menus(itens: List[Dict[str, Any]]) -> Dict[str, List[str]]:
 
     return {"faixas": faixas, "grupos": grupos, "climas": climas, "atividades": atividades}
 
-# === ENTRADAS SEM “PULAR” ===
-def resposta_unica(titulo: str, opcoes: List[str]) -> str:
+
+def resposta_unica(titulo: str, opcoes: List[str]) -> str:       # Recebo os dados do usuário.
     print(f"\n{titulo}")
     for i, opc in enumerate(opcoes, start=1):
         print(f"  [{i}] {opc}")
@@ -74,8 +74,7 @@ def resposta_unica(titulo: str, opcoes: List[str]) -> str:
                 return opcoes[idx - 1]
         print("Entrada inválida. Tente novamente.")
 
-def prompt_clima_unica(titulo: str, opcoes: List[str]) -> List[str]:
-    """Seleção única para o CLIMA (sem mensagem de múltiplos)."""
+def prompt_clima_unica(titulo: str, opcoes: List[str]) -> List[str]:       # Aqui o usuário informa o clima que ele prefere.
     print(f"\n{titulo}")
     for i, opc in enumerate(opcoes, start=1):
         print(f"  [{i}] {opc}")
@@ -84,11 +83,10 @@ def prompt_clima_unica(titulo: str, opcoes: List[str]) -> List[str]:
         if esc.isdigit():
             idx = int(esc)
             if 1 <= idx <= len(opcoes):
-                return [opcoes[idx - 1]]  # mantém List[str] para o filtro
+                return [opcoes[idx - 1]]
         print("Entrada inválida. Selecione apenas um número.")
 
-def prompt_opcao_multipla(titulo: str, opcoes: List[str], limite: int = 10) -> List[str]:
-    """Múltipla escolha para atividades (SEM ‘pular’)."""
+def prompt_opcao_multipla(titulo: str, opcoes: List[str], limite: int = 10) -> List[str]:  #Mensagem para quando são necessárias varias respostas.
     print(f"\n{titulo}")
     for i, opc in enumerate(opcoes, start=1):
         print(f"  [{i}] {opc}")
@@ -108,12 +106,11 @@ def prompt_opcao_multipla(titulo: str, opcoes: List[str], limite: int = 10) -> L
                 return escolhidas
         print("Entrada inválida. Tente novamente.")
 
-def respostas_filtro(dest: Dict[str, Any],
+def respostas_filtro(dest: Dict[str, Any],              # Filtra os destinos com base nas respostas do usuário.
                      faixa: str,
                      grupo: str,
                      climas: List[str],
                      atividades: List[str]) -> bool:
-
     if faixa and dest["_Faixa"] != faixa:
         return False
     if grupo:
@@ -129,7 +126,7 @@ def respostas_filtro(dest: Dict[str, Any],
             return False
     return True
 
-def ordenar_filtros(dest: Dict[str, Any], atividades_escolhidas: List[str]) -> tuple:
+def ordenar_filtros(dest: Dict[str, Any], atividades_escolhidas: List[str]) -> tuple:      # Ordena os resultados
     dest_ativ = [a.lower() for a in normalizar_atividades(dest.get("Atividade",""))]
     hits = 0
     for kw in atividades_escolhidas:
@@ -137,7 +134,7 @@ def ordenar_filtros(dest: Dict[str, Any], atividades_escolhidas: List[str]) -> t
             hits += 1
     return (-hits, padronizar_dinheiro(dest.get("Valor total","999999")), dest.get("Cidade",""))
 
-def mostrar_informacoes(dest: Dict[str, Any]):
+def mostrar_informacoes(dest: Dict[str, Any]):      # Exibe os detalhes de um destino.
     print("\n=== Detalhes do destino selecionado ===")
     print(f"Cidade: {dest.get('Cidade','-')}  ({dest.get('Local','-')})")
     print(f"Faixa: {dest.get('_Faixa','-')}")
@@ -154,7 +151,7 @@ def mostrar_informacoes(dest: Dict[str, Any]):
     else:
         print("\n(sem descrição cadastrada para este destino)")
 
-def executar_programa(caminho_json: str):
+def executar_programa(caminho_json: str):        # Execução do programa
     db = carregar_base(caminho_json)
     itens = listagem(db)
     op = criar_menus(itens)
